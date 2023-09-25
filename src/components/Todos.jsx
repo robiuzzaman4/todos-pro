@@ -15,7 +15,7 @@ const Todos = () => {
                 !todos || todos.length <= 0 ?
                     <>
                         <h1 className="text-3xl text-lime-500 text-center font-bold pb-6">
-                            No Todos Created At.
+                            No Todos Created Yet!
                         </h1>
                     </>
                     :

@@ -13,4 +13,4 @@
 - Tailwind CSS
 - React Hot Toast
 
-### [Visit Site 🚀](https://example.com/)
+### [Visit Site 🚀](https://todos-pro.netlify.app/)

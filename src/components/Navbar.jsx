@@ -10,7 +10,7 @@ const Navbar = () => {
             </div>
 
             <a
-                href="https://github.com/robiuzzaman4"
+                href="https://github.com/robiuzzaman4/todos-pro"
                 target="_blank"
                 rel="noreferrer">
                 <img
